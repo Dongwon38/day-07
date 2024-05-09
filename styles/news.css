@@ -251,7 +251,7 @@ article {
   border-bottom: 1px solid #888888;
   margin-bottom: 1.5rem;
   /* clear: both; */
-  /* clearfix hack */
+  /* clearfix hack instead */
 }
 
 article::after {
